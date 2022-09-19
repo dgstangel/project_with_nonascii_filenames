@@ -1,0 +1,2 @@
+This is another file with some non-ascii characters in the filename. 
+This file has 世 and 界 in the filename.
