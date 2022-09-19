@@ -1,0 +1,2 @@
+This is a file called Test_file_Főtanúsítvány.txt
+Note it has non-ASCII characters including ő and ú and á
